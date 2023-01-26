@@ -1,0 +1,65 @@
+
+.ListProduit{
+  margin: 20px;
+  display: flex;
+  flex-direction: row;
+}
+
+.form{
+  width: 600px;
+  padding: 0 50px 0 50px;
+  background: rgb(201, 216, 220);
+  display: inline-block;
+  display: block;
+  font-size: 30px;
+  font-weight: 300;
+  font-weight: 400;
+  margin:25px;
+  padding:25px;
+
+}
+
+.pro{
+  display: flex;
+  justify-content: space-between;
+ 
+}
+
+.edit{
+  width: 600px;
+  padding: 0 50px 0 50px;
+  background: rgb(201, 216, 220);
+  display: inline-block;
+  display: block;
+  font-size: 30px;
+  font-weight: 300;
+  font-weight: 400;
+  margin:25px;
+  padding:25px;
+}
+
+.login{
+  width: 600px;
+  padding: 0 50px 0 50px;
+  background: rgb(201, 216, 220);
+  display: inline-block;
+  display: block;
+  font-size: 30px;
+  font-weight: 300;
+  font-weight: 400;
+  margin:25px;
+  padding:25px;
+}
+
+.register{
+  width: 600px;
+  padding: 0 50px 0 50px;
+  background: rgb(201, 216, 220);
+  display: inline-block;
+  display: block;
+  font-size: 30px;
+  font-weight: 300;
+  font-weight: 400;
+  margin:25px;
+  padding:25px;
+}
